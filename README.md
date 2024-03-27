@@ -16,3 +16,10 @@
 ### [Graduate Research Assistant], [University of British Columbia]
 - Dates of Employment: [Start Date] - [End Date]
 - Description: Brief description of your responsibilities, accomplishments, and contributions in this role.
+
+## Contact Information
+
+- Email: [Your Email Address]
+- Phone: [Your Phone Number]
+- LinkedIn: [Your LinkedIn Profile URL]
+- GitHub: [Your GitHub Profile URL]
