@@ -7,10 +7,12 @@
 - M.S., Structural Engineering | University of California, Irvine (_March 2017_)
 - B.E., Civil Engineering | Assam Engineering College, Guwahati (_July 2015_)
 
-### Work Experience
-Research Fellow @ The University of Auckland
-- blah blah blah
-- blah blah blah
+## Work Experience
 
-### Projects
-EEG Band
+### Research Fellow, [The University of Auckland]
+- Dates of Employment: [Start Date] - [End Date]
+- Description: Brief description of your responsibilities, accomplishments, and contributions in this role.
+
+### [Graduate Research Assistant], [University of British Columbia]
+- Dates of Employment: [Start Date] - [End Date]
+- Description: Brief description of your responsibilities, accomplishments, and contributions in this role.
