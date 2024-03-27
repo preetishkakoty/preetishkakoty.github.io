@@ -2,3 +2,10 @@ title: Preetish Kakoty
 logo: /assets/image/headshot_pk_circle.jpg
 # show_downloads: true
 theme: jekyll-theme-minimal
+
+header_navigation:
+  - title: Documentation
+    url: /docs/
+
+  - title: About
+    url: /about/
