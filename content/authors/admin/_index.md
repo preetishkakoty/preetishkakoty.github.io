@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Preetish Kakoty
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: pr-ee-tish ka-ko-ti
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Preetish
+last_name: Kakoty
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🌃
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Research Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Auckland
+    url: https://www.auckland.ac.nz/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:preetish.kakoty@auckland.ac.nz'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,31 +40,31 @@ profiles:
   - icon: brands/github
     url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/preetishkakoty/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.ca/citations?user=5iOOYJIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-6692-915X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Performance Based Engineering
+  - Disaster Risk Modelling
+  - Urban Resilience
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD (Structural and Earthquake Engineering)
+    institution: University of British Columbia, Vancouver
+    date_start: 2018-09-01
+    date_end: 2024-01-08
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSE (Systems Engineering)
+    institution: Johns Hopkins University
+    date_start: 2017-08-01
+    date_end: 2018-05-15
     summary: |
       GPA: 3.8/4.0
 
@@ -72,10 +72,21 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS (Structural Engineering)
+    institution: University of California, Irvine
+    date_start: 2015-09-15
+    date_end: 2017-03-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BE (Civil Engineering)
+    institution: Assam Engineering College
+    date_start: 2011-08-15
+    date_end: 2015-06-31
     summary: |
       GPA: 3.4/4.0
       
@@ -84,28 +95,62 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Fellow
+    company_name: University of Auckland & GNS Science
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-03-15
     date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Visiting Researcher
+    company_name: Stanford University
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2023-01-01
+    date_end: 2023-02-28
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Intern
+    company_name: Guy Carpenter
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-05-01
+    date_end: 2019-08-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Intern
+    company_name: Bush Bohlman and Partners
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-01-01
+    date_end: 2019-04-30
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Visiting Researcher
+    company_name: Stanford University
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-01-01
+    date_end: 2023-02-28
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -144,10 +189,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
+  - name: Assamese
+    percent: 100
+  - name: Hindi
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +228,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am Preetish, and currently working at the University of Auckland. 
