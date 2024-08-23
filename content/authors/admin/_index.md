@@ -3,7 +3,7 @@
 title: Preetish Kakoty
 
 # Name pronunciation (optional)
-name_pronunciation: pr-ee-tish ka-ko-ti
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Preetish
