@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: custom/substack
-  url: https://preetish.substack.com/
+    url: https://preetish.substack.com/
   - icon: brands/github
     url: https://github.com/preetishkakoty
   - icon: brands/linkedin
