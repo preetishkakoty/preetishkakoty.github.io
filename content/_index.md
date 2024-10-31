@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research seeks to illuminate the shifting landscape of disaster risk within communities, focusing on the complex interplay between natural hazards, vulnerable assets, and the outcomes that arise from these interactions. By examining the intensity and severity of hazards like earthquakes, floods, and storms, I aim to identify which structures, infrastructures, and resources are most at risk. I also study the cascading consequences of such events, from immediate damage to long-term socio-economic impacts, with a goal of informing safer, more resilient urban designs. My approach integrates probabilistic methods and performance-based engineering to support decision-makers in prioritizing resilience, ultimately enhancing our ability to withstand and adapt to a world of increasing risks.
     design:
       columns: '1'
   - block: collection

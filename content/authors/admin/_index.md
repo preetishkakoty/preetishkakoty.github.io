@@ -35,8 +35,8 @@ profiles:
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: custom/substack
-    url: https://preetish.substack.com/
+  # - icon: custom/substack
+  #   url: https://preetish.substack.com/
   - icon: brands/github
     url: https://github.com/preetishkakoty
   - icon: brands/linkedin
@@ -190,4 +190,6 @@ languages:
 
 ## About Me
 
-Hello, I am Preetish, and currently working at the University of Auckland. 
+I am passionate about understanding disaster risk in infrastructure systems and take an interdisciplinary approach to my research, combining probabilistic methods with performance-based engineering techniques. My work delves into risk perception, exploring questions like how we assess risk in our lives and how those perceptions shape the decisions we make.
+
+My background spans structural and systems engineering, with broad interests in natural hazards, statistical models, risk science, and the nuances of risk communication. When I’m not reading on my computer, I’m likely off traveling to a new destination or experimenting in the kitchen with exotic recipes.
