@@ -86,7 +86,7 @@ education:
   - area: BE (Civil Engineering)
     institution: Assam Engineering College
     date_start: 2011-08-15
-    date_end: 2015-06-31
+    date_end: 2015-06-30
     summary: |
       GPA: 3.4/4.0
       
