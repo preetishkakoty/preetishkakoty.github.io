@@ -31,12 +31,12 @@ jobs:
       with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
-    - name: Preload upload-artifact to avoid GitHub registry bug
-      uses: actions/upload-artifact@v3
-      with:
-        name: preload-dummy
-        path: ./README.md
-      continue-on-error: true
+    # - name: Preload upload-artifact to avoid GitHub registry bug
+    #   uses: actions/upload-artifact@v3
+    #   with:
+    #     name: preload-dummy
+    #     path: ./README.md
+    #   continue-on-error: true
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
@@ -60,7 +60,7 @@ jobs:
     - name: Generate Pagefind search index
       run: npx pagefind --site "public"
     - name: Upload artifact
-      uses: actions/upload-pages-artifact@v2
+      uses: actions/upload-pages-artifact@v1
       with:
         path: ./public
 
