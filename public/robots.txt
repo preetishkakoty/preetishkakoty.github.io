@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://preetishkakoty@localhost:1313/sitemap.xml

@@ -6,7 +6,7 @@ authors:
 - Carlos Molina Hutt
 - Hadi Ghofrani
 - Sheri Molnar
-date: -01-01
+date: 2024-01-01
 publishDate: '2024-08-23T06:24:07.286577Z'
 publication_types:
 - article-journal

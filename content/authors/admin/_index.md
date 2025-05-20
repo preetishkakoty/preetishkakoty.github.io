@@ -49,7 +49,7 @@ profiles:
 interests:
   - Performance Based Engineering
   - Disaster Risk Modelling
-  - Urban Resilience
+  - Decisions under uncertainty
 
 education:
   - area: PhD Structural and Earthquake Engineering
@@ -148,13 +148,13 @@ work:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Assamese
-    percent: 100
-  - name: Hindi
-    percent: 75
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Assamese
+#     percent: 100
+#   - name: Hindi
+#     percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -190,6 +190,8 @@ languages:
 
 ## About Me
 
-I am passionate about understanding disaster risk in infrastructure systems and take an interdisciplinary approach to my research, combining probabilistic methods with performance-based engineering techniques. My work delves into risk perception, exploring questions like how we assess risk in our lives and how those perceptions shape the decisions we make.
+My research seeks to understand impacts of natural hazard events on our communities, and thereby seek to enable decisions for a resilient future. My research delves into questions in the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science.  
 
-My background spans structural and systems engineering, with broad interests in natural hazards, statistical models, risk science, and the nuances of risk communication. When I’m not reading on my computer, I’m likely off traveling to a new destination or experimenting in the kitchen with exotic recipes.
+With a background in structural and systems engineering, I use statistical and physics based simulation tools to understand the complexities of disaster risk. My approach has been to work with collaborative teams with diversity in expertise and experience, and thereby engage in discussions related to policy decisions that aim to reduce risk. 
+
+When I’m not reading on my computer, I’m likely off traveling to a new destination or experimenting in the kitchen with exotic recipes.
