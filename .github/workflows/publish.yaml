@@ -49,7 +49,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-hugomod-
     - name: Setup Pages
-      S  id: pages
+      id: pages
       uses: actions/configure-pages@v3
     - name: Build with Hugo
       env:
