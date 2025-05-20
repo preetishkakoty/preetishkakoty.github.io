@@ -32,11 +32,11 @@ jobs:
           # Fetch history for Hugo's .GitInfo and .Lastmod
         fetch-depth: 0
     - name: Preload upload-artifact to avoid GitHub registry bug
-  uses: actions/upload-artifact@v3
-  with:
-    name: preload-dummy
-    path: ./README.md
-  continue-on-error: true
+      uses: actions/upload-artifact@v3
+      with:
+        name: preload-dummy
+        path: ./README.md
+      continue-on-error: true
     - name: Setup Hugo
       uses: peaceiris/actions-hugo@v2
       with:
