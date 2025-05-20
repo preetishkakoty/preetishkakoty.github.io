@@ -30,14 +30,14 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        My research seeks to illuminate the shifting landscape of disaster risk within communities, focusing on the complex interplay between natural hazards, vulnerable assets, and the outcomes that arise from these interactions. By examining the intensity and severity of hazards like earthquakes, floods, and storms, I aim to identify which structures, infrastructures, and resources are most at risk. I also study the cascading consequences of such events, from immediate damage to long-term socio-economic impacts, with a goal of informing safer, more resilient urban designs. My approach integrates probabilistic methods and performance-based engineering to support decision-makers in prioritizing resilience, ultimately enhancing our ability to withstand and adapt to a world of increasing risks.
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       My research seeks to illuminate the shifting landscape of disaster risk within communities, focusing on the complex interplay between natural hazards, vulnerable assets, and the outcomes that arise from these interactions. By examining the intensity and severity of hazards like earthquakes, floods, and storms, I aim to identify which structures, infrastructures, and resources are most at risk. I also study the cascading consequences of such events, from immediate damage to long-term socio-economic impacts, with a goal of informing safer, more resilient urban designs. My approach integrates probabilistic methods and performance-based engineering to support decision-makers in prioritizing resilience, ultimately enhancing our ability to withstand and adapt to a world of increasing risks.
+  #   design:
+  #     columns: '1'
   - block: collection
     id: papers
     content:
@@ -99,7 +99,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false # Only display this section in the Hugo Blox Builder demo site
     content:
       title: 👉 Build your own academic website like this
       text: |-
