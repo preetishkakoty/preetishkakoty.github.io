@@ -33,4 +33,17 @@ abstract: Canada’s 2020 national seismic hazard model (CSHM 2020) provides haz
   reach values that are 58% to 271% higher, at a 2 s period, than non-basin UHS estimates
   when amplification factors are calculated with respect to basin-edge and outside-basin
   reference locations, respectively.
+
+tags:
+- Seismic Hazard, Sedimentary Basin
+
+featured: true
+
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+
 ---
