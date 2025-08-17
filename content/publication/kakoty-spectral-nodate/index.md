@@ -8,6 +8,7 @@ authors:
 - Sheri Molnar
 date: 2024-01-01
 publishDate: '2024-08-23T06:24:07.286577Z'
+doi: 10.1002/eqe.3361
 publication_types:
 - article-journal
 publication: '*Earthquake Spectra*'
