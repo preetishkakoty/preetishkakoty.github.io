@@ -34,7 +34,9 @@ abstract: Southwest British Columbia has the potential to experience large-magni
   found to exceed those associated with ground motion shaking intensities corresponding
   to the 975 and 2475-year return periods, far exceeding the ∼500-year return period
   of M9 CSZ earthquakes.
-links:
-- name: URL
-  url: https://onlinelibrary.wiley.com/doi/10.1002/eqe.3361
+
+projects: ["basin-amplification"]
+#links:
+#- name: URL
+#  url: https://onlinelibrary.wiley.com/doi/10.1002/eqe.3361
 ---
