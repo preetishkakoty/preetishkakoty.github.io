@@ -40,7 +40,7 @@ tags:
 - Performance-based Engineering
 - Tall buildings
 
-featured: false
+featured: true
 
 image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'

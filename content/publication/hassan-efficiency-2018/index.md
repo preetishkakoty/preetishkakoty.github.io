@@ -8,6 +8,6 @@ authors:
 date: '2018-01-01'
 publishDate: '2024-08-23T06:24:07.302154Z'
 publication_types:
-- article-journal
+- article-conference
 publication: '*Eleventh U.S. National Conference on Earthquake Engineering*'
 ---
