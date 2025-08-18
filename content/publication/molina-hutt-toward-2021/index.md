@@ -47,4 +47,5 @@ image:
   focal_point: ""
   preview_only: false
 
+projects: ["tall-building-recovery"]
 ---
