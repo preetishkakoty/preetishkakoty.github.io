@@ -9,7 +9,7 @@
       {{/* Group by year */}}
       {{ range $pubs }}
         {{ $year := .Date.Format "2006" }}
-        {{ $existing := (where $grouped "year" $year) | first }}
+        {{ $existing := first 1 (where $grouped "year" $year) | first }}
         {{ if not $existing }}
             {{ $grouped = $grouped | append (dict "year" $year "pages" (slice .)) }}
         {{ else }}
