@@ -3,27 +3,12 @@
     <div class="container">
       <h1 class="mb-4">Publications</h1>
 
-      {{ $pubs := .Pages.ByDate.Reverse }}
-      {{ $grouped := slice }}
-
-      {{/* Group by year */}}
-      {{ range $pubs }}
-        {{ $year := .Date.Format "2006" }}
-        {{ $existingMatches := where $grouped "year" $year }}
-        {{ $existing := index $existingMatches 0 }}
-        {{ if not $existing }}
-          {{ $grouped = $grouped | append (dict "year" $year "pages" (slice .)) }}
-        {{ else }}
-          {{ $updated := dict "year" $year "pages" (append $existing.pages .) }}
-          {{ $grouped = $grouped | where "year" "ne" $year | append $updated }}
-        {{ end }}
-      {{ end }}
-
-      {{/* Display by year */}}
-      {{ range $grouped }}
-        <h2 class="mt-6 border-b pb-2">{{ .year }}</h2>
+      {{/* Group pages by YEAR using Hugo's built-in API (robust + simple) */}}
+      {{ $groups := .Pages.GroupByDate "2006" }}
+      {{ range sort $groups "Key" "desc" }}
+        <h2 class="mt-6 border-b pb-2">{{ .Key }}</h2>
         <ul class="list-unstyled">
-          {{ range .pages }}
+          {{ range .Pages.ByDate.Reverse }}
             <li class="mb-4">
               <h3 class="h5 mb-1">
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -34,6 +19,7 @@
           {{ end }}
         </ul>
       {{ end }}
+
     </div>
   </section>
 {{ end }}
