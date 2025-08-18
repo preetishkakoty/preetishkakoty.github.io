@@ -10,8 +10,8 @@ first_name: Preetish
 last_name: Kakoty
 
 # Status emoji
-status:
-  icon: ⚛️
+# status:
+#   icon: ⚛️
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ role: Research Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Auckland
-    url: https://www.auckland.ac.nz/
+    url: https://profiles.auckland.ac.nz/preetish-kakoty
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -33,9 +33,9 @@ profiles:
   - icon: at-symbol
     url: 'mailto:preetish.kakoty@auckland.ac.nz'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  # - icon: custom/substack
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # # - icon: custom/substack
   #   url: https://preetish.substack.com/
   - icon: brands/github
     url: https://github.com/preetishkakoty
@@ -89,7 +89,7 @@ work:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Research Fellow
-    company_name: University of Auckland & GNS Science
+    company_name: University of Auckland & Earth Sciences New Zealand
     company_url: ''
     company_logo: ''
     date_start: 2024-03-15
