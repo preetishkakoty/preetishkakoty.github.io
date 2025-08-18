@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <section class="section">
+    <div class="container">
+      <h1 class="mb-4">Publications</h1>
+
+      {{ $pubs := .Pages | sort "Date" "desc" }}
+      {{ $grouped := slice }}
+
+      {{/* Group by year */}}
+      {{ range $pubs }}
+        {{ $year := .Date.Format "2006" }}
+        {{ $existing := index $grouped $year }}
+        {{ if not $existing }}
+          {{ $grouped = $grouped | append (dict "year" $year "pages" (slice .)) }}
+        {{ else }}
+          {{ $updated := (dict "year" $year "pages" (append $existing.pages .)) }}
+          {{ $grouped = $grouped | where "year" "ne" $year | append $updated }}
+        {{ end }}
+      {{ end }}
+
+      {{/* Display by year */}}
+      {{ range $grouped }}
+        <h2 class="mt-6 border-b pb-2">{{ .year }}</h2>
+        <ul class="list-unstyled">
+          {{ range .pages }}
+            <li class="mb-4">
+              <h3 class="h5 mb-1">
+                <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+              </h3>
+              {{ with .Params.publication }}<div class="text-muted small">{{ . }}</div>{{ end }}
+              {{ with .Summary }}<div class="small">{{ . }}</div>{{ end }}
+            </li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
