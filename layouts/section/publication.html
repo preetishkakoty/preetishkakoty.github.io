@@ -9,12 +9,13 @@
       {{/* Group by year */}}
       {{ range $pubs }}
         {{ $year := .Date.Format "2006" }}
-        {{ $existing := first 1 (where $grouped "year" $year) | first }}
+        {{ $existingMatches := where $grouped "year" $year }}
+        {{ $existing := index $existingMatches 0 }}
         {{ if not $existing }}
-            {{ $grouped = $grouped | append (dict "year" $year "pages" (slice .)) }}
+          {{ $grouped = $grouped | append (dict "year" $year "pages" (slice .)) }}
         {{ else }}
-            {{ $updated := dict "year" $year "pages" (append $existing.pages .) }}
-            {{ $grouped = $grouped | where "year" "ne" $year | append $updated }}
+          {{ $updated := dict "year" $year "pages" (append $existing.pages .) }}
+          {{ $grouped = $grouped | where "year" "ne" $year | append $updated }}
         {{ end }}
       {{ end }}
 
