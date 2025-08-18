@@ -34,7 +34,7 @@ abstract: Current building code requirements for seismic design are primarily in
   reinforced concrete shear wall residential building and a 40-story steel buckling-restrained
   braced frame office building in San Francisco, CA.
 tags:
-- FunctionalRecovery
+- Functiona lRecovery
 - Earthquake-induced impacts
 - Performance-based Engineering
 - Tall buildings
