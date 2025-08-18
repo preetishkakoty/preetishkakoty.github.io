@@ -3,7 +3,7 @@
     <div class="container">
       <h1 class="mb-4">Publications</h1>
 
-      {{ $pubs := .Pages | sort "Date" "desc" }}
+      {{ $pubs := .Pages.ByDate.Reverse }}
       {{ $grouped := slice }}
 
       {{/* Group by year */}}
