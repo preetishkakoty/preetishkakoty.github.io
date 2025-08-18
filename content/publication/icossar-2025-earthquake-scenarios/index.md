@@ -5,7 +5,7 @@ authors:
   - Ken Elwood
 date: 2025-08-01
 publication: "14th International Conference on Structural Safety and Reliability, Los Angeles, USA"
-publication_types: ["article-conference"]
+publication_types: ["1"]
 projects: ["wellington-risk"]
 featured: false
 links:

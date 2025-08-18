@@ -7,8 +7,7 @@ authors:
 - Carlos Molina Hutt
 date: '2021-01-01'
 publishDate: '2024-08-23T06:24:07.294413Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Earthquake Engineering & Structural Dynamics*'
 doi: 10.1002/eqe.3361
 abstract: Southwest British Columbia has the potential to experience large-magnitude

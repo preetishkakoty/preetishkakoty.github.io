@@ -11,8 +11,7 @@ authors:
 - John D Hooper
 date: '2021-01-01'
 publishDate: '2024-08-23T06:24:07.267051Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Earthquake Spectra*'
 doi: 10.1177/87552930211033620
 abstract: Current building code requirements for seismic design are primarily intended

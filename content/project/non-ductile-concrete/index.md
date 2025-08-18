@@ -21,7 +21,7 @@ The study proposes a **data-driven archetype generation framework** using a rand
 
 - [Collapse Risk of Tall Non-Ductile Reinforced Concrete Shear Wall Buildings](/publication/wcee2024-rcsw-collapse)
 - [Quantifying Variability in the Collapse Risk of Non-ductile Reinforced Concrete Shear Wall Buildings](/publication/cpcee-2023-collapse-variability)
-- [Collapse Risk of Tall Non-ductile Reinforced Concrete Shear Wall Buildings](/publication/wcee2024-collapse-risk-tall-buildings)
+- [Collapse Risk of Tall Non-ductile Reinforced Concrete Shear Wall Buildings](/publication/wcee-2024-collapse-risk-tall-buildings)
 
 
 ---

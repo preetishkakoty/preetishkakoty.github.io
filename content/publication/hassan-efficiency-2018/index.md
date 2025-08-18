@@ -7,7 +7,6 @@ authors:
 - B Simbson
 date: '2018-01-01'
 publishDate: '2024-08-23T06:24:07.302154Z'
-publication_types:
-- article-conference
+publication_types: ["1"]
 publication: '*Eleventh U.S. National Conference on Earthquake Engineering*'
 ---

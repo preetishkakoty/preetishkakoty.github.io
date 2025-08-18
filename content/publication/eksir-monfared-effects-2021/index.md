@@ -9,8 +9,7 @@ authors:
 - Jose Centeno
 date: '2021-08-01'
 publishDate: '2024-08-23T06:24:07.277965Z'
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Journal of Structural Engineering*'
 doi: 10.1061/(ASCE)ST.1943-541X.0003067
 abstract: 'Tall residential RC shear wall buildings (RCSW), which are predominant

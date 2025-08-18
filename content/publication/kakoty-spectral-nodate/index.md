@@ -9,8 +9,7 @@ authors:
 date: 2024-01-01
 publishDate: '2024-08-23T06:24:07.286577Z'
 doi: 10.1002/eqe.3361
-publication_types:
-- article-journal
+publication_types: ["2"]
 publication: '*Earthquake Spectra*'
 abstract: Canada’s 2020 national seismic hazard model (CSHM 2020) provides hazard
   estimates for interface Cascadia Subduction Zone (CSZ) earthquakes in southwestern
