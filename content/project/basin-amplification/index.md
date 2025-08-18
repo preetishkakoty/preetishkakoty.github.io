@@ -8,16 +8,6 @@ featured: true
 image:
   filename: "georgia-basin.png"
   caption: "Site-specific basin amplification factors across the Georgia sedimentary basin"
-outputs:
-  - url: "/publication/kakoty_spectral-nodate"
-    title: "Spectral Acceleration Basin Amplification Factors for Interface Cascadia Subduction Zone Earthquakes in Canada's 2020 National Seismic Hazard Mode (Earthquake Spectra, 2023)"
-  - url: "/publication/kakoty-impacts-2021"
-    title: "Impacts of Simulated M9 Cascadia Subduction Zone Earthquakes Considering Amplifications due to the Georgia Sedimentary Basin on Reinforced Concrete Shear Wall Buildings (Earthquake Engineering & Structural Dynamics, 2021)"
-  - url: "/publication/wcee-2020-m9-basin-amplification"
-    title: "uantifying Basin Amplification in Southwest BC from Simulated M9 Cascadia Subduction Zone Earthquakes (WCEE 2020)"
-  - url: "/publication/12ncee-2022-basin-factors"
-    title: "Proposed basin amplification factors for subduction interface hazard in the 2020 seismic hazard model of Canada (NCEE 2022)"
-
 collaborators:
   - Carlos Molina Hutt
   - Sai Mithra Dyaga
@@ -34,10 +24,10 @@ The findings have implications for seismic hazard mapping, performance-based des
 
 ### 📰 Related Publications
 
-- [Spectral Acceleration Basin Amplification (Earthquake Spectra, 2023)](/publication/kakoty_spectral-nodate)
-- [Impacts of Simulated M9 Earthquakes (EQE & Structural Dynamics, 2021)](/publication/kakoty-impacts-2021)
-- [Collapse Risk of Tall RC Buildings (WCEE 2024)](/publication/wcee-2020-m9-basin-amplification)
-- [Collapse Risk of Tall RC Buildings (WCEE 2024)](/publication/12ncee-2022-basin-factors)
+- [Spectral Acceleration Basin Amplification Factors for Interface Cascadia Subduction Zone Earthquakes in Canada's 2020 National Seismic Hazard Model (Earthquake Spectra, 2023)](/publication/kakoty_spectral-nodate)
+- [Impacts of Simulated M9 Cascadia Subduction Zone Earthquakes Considering Amplifications due to the Georgia Sedimentary Basin on Reinforced Concrete Shear Wall Buildings (Earthquake Engineering & Structural Dynamics, 2021)](/publication/kakoty-impacts-2021)
+- [Quantifying Basin Amplification in Southwest BC from Simulated M9 Cascadia Subduction Zone Earthquakes (WCEE 2020)](/publication/wcee-2020-m9-basin-amplification)
+- [Proposed basin amplification factors for subduction interface hazard in the 2020 seismic hazard model of Canada (NCEE 2022)](/publication/12ncee-2022-basin-factors)
 
 ---
 
@@ -46,4 +36,4 @@ The findings have implications for seismic hazard mapping, performance-based des
 - [Carlos Molina Hutt](https://civil.ubc.ca/people/carlos-molina-hutt)
 - Sai Mithra Dyaga
 - Hadi Ghofrani
-- [Sheri Molnar] (https://www.uwo.ca/earth/people/faculty/molnar.html)
+- [Sheri Molnar](https://www.uwo.ca/earth/people/faculty/molnar.html)
