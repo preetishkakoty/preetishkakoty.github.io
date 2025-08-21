@@ -56,6 +56,7 @@ sections:
       filters:
         folders:
           - publication
+        publication_type: "2"
         exclude_featured: false
     design:
       view: list
