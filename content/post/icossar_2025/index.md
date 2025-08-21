@@ -17,6 +17,6 @@ tags:
 ---
 
 Preetish Kakoty presented on "Framework for Selecting Representative Earthquake Scenarios: A Case Study
-for Wellington, New Zealand" during a session titled ""Multi-hazard resilience quantification of community systems for informed mitigation, climate adaptation, and post-event management" during the [**14th International Conference on Structural Safety and Reliability**](https://www.icossar2025.org/) that was organized at the University of Southern California in Los Angeles during 1-6 June, 2025.
+for Wellington, New Zealand" during a session titled "Multi-hazard resilience quantification of community systems for informed mitigation, climate adaptation, and post-event management" during the [**14th International Conference on Structural Safety and Reliability**](https://www.icossar2025.org/) that was organized at the University of Southern California in Los Angeles during 1-6 June, 2025.
 
 This work is part of the ongoing project [Selection of Earthquake Scenarios for Wellington](/project/wellington-risk/) funded by [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/).
