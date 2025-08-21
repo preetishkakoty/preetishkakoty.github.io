@@ -32,7 +32,19 @@ abstract: 'Tall residential RC shear wall buildings (RCSW), which are predominan
   demands from the M9 simulations at deep basin sites result in earthquake-induced
   repair costs and times that exceed those associated with the 2,475-year hazard level.
   DOI: 10.1061/(ASCE)ST.1943-541X.0003067. © 2021 American Society of Civil Engineers.'
-links:
-- name: URL
-  url: https://ascelibrary.org/doi/10.1061/%28ASCE%29ST.1943-541X.0003067
+
+tags:
+- Functional Recovery
+- Earthquake-induced impacts
+- Performance-based Engineering
+- Tall buildings
+
+featured: false
+
+image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
+projects: ["basin-amplification"]
 ---

@@ -9,7 +9,7 @@ authors:
 - Alireza Eksir Monfared
 - Yen Wen-Yi
 - John D Hooper
-date: '2021-01-01'
+date: '2021-09-09'
 publishDate: '2024-08-23T06:24:07.267051Z'
 publication_types: ["2"]
 publication: '*Earthquake Spectra*'
@@ -34,7 +34,7 @@ abstract: Current building code requirements for seismic design are primarily in
   reinforced concrete shear wall residential building and a 40-story steel buckling-restrained
   braced frame office building in San Francisco, CA.
 tags:
-- Functiona lRecovery
+- Functional Recovery
 - Earthquake-induced impacts
 - Performance-based Engineering
 - Tall buildings

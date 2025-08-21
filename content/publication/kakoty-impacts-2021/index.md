@@ -34,6 +34,20 @@ abstract: Southwest British Columbia has the potential to experience large-magni
   to the 975 and 2475-year return periods, far exceeding the ∼500-year return period
   of M9 CSZ earthquakes.
 
+
+tags:
+- Seismic Hazard
+- Basin Amplification
+- Earthquake-induced Impacts
+- Tall buildings
+
+featured: false
+
+image:
+  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  focal_point: ""
+  preview_only: false
+
 projects: ["basin-amplification"]
 #links:
 #- name: URL
