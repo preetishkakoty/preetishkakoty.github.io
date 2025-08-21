@@ -18,10 +18,10 @@ This research addresses this gap by proposing a systematic framework to select r
 
 ### 📰 Related Publication
 
-## 📰 Journal Article
+#### 📰 Journal Article
 - Framework for Selecting Representative Earthquake Scenarios for Regional Risk Simulation (In preparation)
 
-## 📰 Conference Presentation
+#### 📰 Conference Presentation
 - [Framework for Selecting Representative Earthquake Scenarios: A Case Study for Wellington, New Zealand (ICOSSAR, 2025)](/publication/icossar-2025-earthquake-scenarios)
 - [Framework for Selection of Representative Earthquake Scenarios for Wellington (NZSEE Annual Conference, 2025)](/publication/nzsee-2025-scenario-selection)
 ---

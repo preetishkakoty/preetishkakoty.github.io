@@ -24,10 +24,10 @@ It synthesizes insights from structural and nonstructural systems, real earthqua
 ---
 ### 📰 Related Publication
 
-## 📖 Journal Article
+#### 📖 Journal Article
 - [Toward Functional Recovery in the Seismic Design of Modern Tall Buildings (Earthquake Spectra, 2021)](/publication/molina-hutt-toward-2021)
 
-## 🎤 Conference Presentation
+#### 🎤 Conference Presentation
 - [Seismic Performance of Tall Buildings Designed Following Non-prescriptive Design Procedures (12th Canadian Conference on Earthquake Engineering, Quebec City, 2019)](/publication/ccee-2019-tall-building-performance)
 
 ---

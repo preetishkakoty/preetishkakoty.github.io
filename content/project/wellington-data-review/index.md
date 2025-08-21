@@ -16,5 +16,5 @@ The review will form the basis for a co-authored paper highlighting the current 
 
 ### 📰 Related Publication
 
-## 📰 Journal Article
+#### 📰 Journal Article
 - Wellington' Seismic Risk: A State-of-the-Art Review of Data and Models (In preparation)

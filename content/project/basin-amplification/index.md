@@ -18,12 +18,12 @@ The findings have implications for seismic hazard mapping, performance-based des
 ---
 ### 📰 Related Publication
 
-## 📖 Journal Article
+#### 📖 Journal Article
 - [Spectral Acceleration Basin Amplification Factors for Interface Cascadia Subduction Zone Earthquakes in Canada's 2020 National Seismic Hazard Model (Earthquake Spectra, 2023)](/publication/kakoty-spectral-nodate)
 - [Impacts of Simulated M9 Cascadia Subduction Zone Earthquakes Considering Amplifications due to the Georgia Sedimentary Basin on Reinforced Concrete Shear Wall Buildings (Earthquake Engineering & Structural Dynamics, 2021)](/publication/kakoty-impacts-2021)
 
 
-## 🎤 Conference Presentation
+#### 🎤 Conference Presentation
 - [Quantifying Basin Amplification in Southwest BC from Simulated M9 Cascadia Subduction Zone Earthquakes (17th World Conference on Earthquake Engineering, Sendai, Japan - 2020)](/publication/wcee-2020-m9-basin-amplification)
 - [Proposed basin amplification factors for subduction interface hazard in the 2020 seismic hazard model of Canada (12th US National Conference on Earthquake Engineering, Salt Lake City, US - 2022)](/publication/12ncee-2022-basin-factors)
 

@@ -19,10 +19,10 @@ The study proposes a **data-driven archetype generation framework** using a rand
 
 ### 📰 Related Publication
 
-## 📖 Journal Article
+#### 📖 Journal Article
 - Collapse Risk of Non-Ductile Tall Reinforced Concrete Shear Wall Buildings (In-Review)
 
-## 🎤 Conference Presentation
+#### 🎤 Conference Presentation
 - [Quantifying Variability in the Collapse Risk of Non-ductile Reinforced Concrete Shear Wall Buildings (Canadian-Pacific Conference on Earthquake Engineering, Vancouver, Canada - 2023)](/publication/cpcee-2023-collapse-variability)
 - [Collapse Risk of Tall Non-ductile Reinforced Concrete Shear Wall Buildings (18th World Confrence on Earthquake Engineering, Milan, Italy - 2024)](/publication/wcee-2024-collapse-risk-tall-buildings)
 
