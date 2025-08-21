@@ -22,11 +22,14 @@ This project contributes to the evolution of seismic design philosophy by shifti
 It synthesizes insights from structural and nonstructural systems, real earthquake case studies, and emerging policy objectives to propose a performance-based framework for recovery-based design. The emphasis is on tall buildings, which are particularly critical in urban recovery due to their vertical complexity and concentrated occupancy. This project was carried out for the City and County of San Francisco through ATC-119 project.
 
 ---
-
 ### 📰 Related Publication
 
+## 📖 Journal Article
 - [Toward Functional Recovery in the Seismic Design of Modern Tall Buildings (Earthquake Spectra, 2021)](/publication/molina-hutt-toward-2021)
+
+## 🎤 Conference Presentation
 - [Seismic Performance of Tall Buildings Designed Following Non-prescriptive Design Procedures (12th Canadian Conference on Earthquake Engineering, Quebec City, 2019)](/publication/ccee-2019-tall-building-performance)
+
 ---
 
 ### 👥 Collaborators

@@ -52,7 +52,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: ""
+      text: "For a detailed and updated list please refer to [**Google Scholar**](https://scholar.google.ca/citations?user=5iOOYJIAAAAJ&hl=en)"
       filters:
         folders:
           - publication
@@ -95,7 +95,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: date-title
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
