@@ -96,6 +96,8 @@ sections:
     design:
       # Choose a layout view
       view: date-title
+      show_image: false
+      show_summary: false
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
