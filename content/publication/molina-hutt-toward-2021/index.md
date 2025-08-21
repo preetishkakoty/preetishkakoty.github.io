@@ -42,7 +42,7 @@ tags:
 featured: true
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Downtime disaggregation under design earthquake shaking with recovery planning for a reinforced shear wall residential building'
   focal_point: ""
   preview_only: false
 

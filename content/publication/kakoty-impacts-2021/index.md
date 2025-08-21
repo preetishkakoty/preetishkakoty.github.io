@@ -44,7 +44,7 @@ tags:
 featured: false
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Geomean spectra of sample M9 Cascadia scenarios at selected locations within Metro Vancouver'
   focal_point: ""
   preview_only: false
 

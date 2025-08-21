@@ -42,7 +42,7 @@ tags:
 featured: false
 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Mean losses and repair times under M9 Cascadia scenarios in different locations in Metro Vancouver'
   focal_point: ""
   preview_only: false
 

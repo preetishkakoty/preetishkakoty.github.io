@@ -41,7 +41,7 @@ featured: true
 
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Spatial variation of depth to shear wave of 2.5 km/s from Pacific Northwest community velocity model'
   focal_point: ""
   preview_only: false
 
