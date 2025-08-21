@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_kakoty.pdf
     design:
       css_class: dark
       background:
@@ -52,7 +52,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: "For a detailed and updated list please refer to [**Google Scholar**](https://scholar.google.ca/citations?user=5iOOYJIAAAAJ&hl=en)"
+      text: "For a detailed and updated list please refer to [Google Scholar](https://scholar.google.ca/citations?user=5iOOYJIAAAAJ&hl=en)"
       filters:
         folders:
           - publication
