@@ -1,7 +1,7 @@
 ---
-title: Delivered a talk on "Peeling the Layers of Earthquake Risk ":" Hazards, Exposure, Vulnerability, and Tolerability".
+title: Delivered a talk on "Peeling the Layers of Earthquake Risk - Hazards, Exposure, Vulnerability, and Tolerability".
 #summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2024-10-10
+date: 2025-10-10
 authors:
   - admin
 tags:
