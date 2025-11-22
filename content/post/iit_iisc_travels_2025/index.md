@@ -5,7 +5,7 @@ date: 2025-10-10
 authors:
   - admin
 tags:
-  - Panel Discussion
+  - Talk
   - Disaster Risk
 image:
   caption: ''
