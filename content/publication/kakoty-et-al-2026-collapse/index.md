@@ -4,7 +4,7 @@ authors:
 - Preetish Kakoty
 - Carlos Molina Hutt
 - Kenneth J Elwood
-date: '2026-01-01'
+date: '2025-12-01'
 publishDate: '2025-12-1T06:24:07.277965Z'
 publication_types: ["2"]
 publication: '*Journal of Structural Engineering*'
