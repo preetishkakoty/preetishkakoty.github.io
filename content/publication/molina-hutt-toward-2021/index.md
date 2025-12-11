@@ -39,7 +39,7 @@ tags:
 - Performance-based Engineering
 - Tall buildings
 
-featured: true
+featured: false
 
 image:
   caption: 'Downtime disaggregation under design earthquake shaking with recovery planning for a reinforced shear wall residential building'
