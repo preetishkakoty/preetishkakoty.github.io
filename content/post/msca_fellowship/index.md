@@ -11,5 +11,5 @@ image:
   caption: ''
 ---
 
-I feel honored to have received a [**Marie Sklodowska-Curie Actions Postdoctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) for a proposal titled "Resilience Enhancement through Multi-Hazard Recovery Analysis of Earthquake and Flood-Affected Infrastructure". Preetish will move to [University College London](https://www.ucl.ac.uk/) in January 2026 to start this project with [Professor Carmine Galasso](https://www.carminegalassoresearch.com/).
+I am honored to have received a [**Marie Sklodowska-Curie Actions Postdoctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) for a proposal titled "Resilience Enhancement through Multi-Hazard Recovery Analysis of Earthquake and Flood-Affected Infrastructure". I will move to [University College London](https://www.ucl.ac.uk/) in January 2026 to start this project with [Professor Carmine Galasso](https://www.carminegalassoresearch.com/).
 

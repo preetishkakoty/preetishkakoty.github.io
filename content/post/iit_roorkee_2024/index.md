@@ -11,5 +11,5 @@ image:
   caption: ''
 ---
 
-Preetish Kakoty delivered a talk titled "Seismic Risk Models and Their Role in Shaping Risk Reduction Policies" during a department seminar at the [**Department of Earthquake Engineering**](https://iitr.ac.in/Departments/Earthquake%20Department/Home.html) at the Indian Institute of Technology Roorkee, India. 
+I delivered a talk titled "Seismic Risk Models and Their Role in Shaping Risk Reduction Policies" during a department seminar at the [**Department of Earthquake Engineering**](https://iitr.ac.in/Departments/Earthquake%20Department/Home.html) at the Indian Institute of Technology Roorkee, India. 
 

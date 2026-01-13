@@ -11,5 +11,5 @@ image:
   caption: ''
 ---
 
-It was great opportunity to deliver a talk virtually titled "The Many Faces of Performance Based Earthquake Engineering" during a class seminar for [Professor Marco Gallegos](https://www.linkedin.com/in/marco-f-gallegos-600003101/) at the [**Departmento De Ingeneria Civil y Ambiental**](https://www.dica.ubiobio.cl/) at the Universidad del Bio Bio in Chile.
+I had an opportunity to deliver a talk virtually titled "The Many Faces of Performance Based Earthquake Engineering" during a class seminar for [Professor Marco Gallegos](https://www.linkedin.com/in/marco-f-gallegos-600003101/) at the [**Departmento De Ingeneria Civil y Ambiental**](https://www.dica.ubiobio.cl/) at the Universidad del Bio Bio in Chile.
 

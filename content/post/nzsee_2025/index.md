@@ -16,6 +16,6 @@ tags:
   - Seismic Hazard
 ---
 
-I was pleased to present our ongoing work on "ramework for Selection of Representative Earthquake Scenarios for Wellington”" during a session titled "– Engineering Seismology, Seismic Hazard and Ground Motions" during the [**2025 New Zealand Society of Earthquake Engineering Annual Technical Meeting**](https://confer.eventsair.com/nzsee2025/) that was organized in Auckland, New Zealand during 8-11 April, 2025.
+I presented our ongoing work on "Framework for Selection of Representative Earthquake Scenarios for Wellington”" during a session titled "– Engineering Seismology, Seismic Hazard and Ground Motions" during the [**2025 New Zealand Society of Earthquake Engineering Annual Technical Meeting**](https://confer.eventsair.com/nzsee2025/) that was organized in Auckland, New Zealand during 8-11 April, 2025.
 
 This work is part of the ongoing project [Selection of Earthquake Scenarios for Wellington](/project/wellington-risk/) funded by [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/).

@@ -16,6 +16,6 @@ tags:
   - Seismic Hazard
 ---
 
-Presented a poster on "Earthquake scenarios and corresponding seismic hazard maps for four locations across Aoteroa New Zealand" during the [**2025 Annual Meeting of QUakeCore**](https://quakecore.nz/annual-meeting/) that was organized in Dunedin, New Zealand during 1-4 September, 2025.
+I presented a poster on "Earthquake scenarios and corresponding seismic hazard maps for four locations across Aoteroa New Zealand" during the [**2025 Annual Meeting of QUakeCore**](https://quakecore.nz/annual-meeting/) that was organized in Dunedin, New Zealand during 1-4 September, 2025.
 
 This work is part of the ongoing project [Selection of Earthquake Scenarios for Wellington](/project/wellington-risk/) funded by [Natural Hazards Commission Toka Tū Ake](https://www.naturalhazards.govt.nz/).

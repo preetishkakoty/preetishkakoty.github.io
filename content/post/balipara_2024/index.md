@@ -11,5 +11,5 @@ image:
   caption: ''
 ---
 
-A great opportunity to participate in a panel discussion on "Livelihood and Sustainable Development Models: In The Context of Eastern Himalaya" during the 12th Eastern Himalayan Naturenomics™ Forum organized by [**Balipara Foundation**](https://baliparafoundation.com/) in Guwhati, Assam.
+I participated in a panel discussion on "Livelihood and Sustainable Development Models: In The Context of Eastern Himalaya" during the 12th Eastern Himalayan Naturenomics™ Forum organized by [**Balipara Foundation**](https://baliparafoundation.com/) in Guwhati, Assam. I shared the risk framework of exposure, hazard, and vulnerability to emphasize on the need for efforts in all the three dimensions to collectively reduce risk for the communities relying on agro-based livelihood in one of the world's most impacted region due to the changing climate. 
 
