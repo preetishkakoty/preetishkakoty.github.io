@@ -37,8 +37,8 @@ profiles:
   #   url: https://twitter.com/GetResearchDev
   # # - icon: custom/substack
   #   url: https://preetish.substack.com/
-  - icon: brands/github
-    url: https://github.com/preetishkakoty
+  # - icon: brands/github
+  #   url: https://github.com/preetishkakoty
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/preetishkakoty/
   - icon: academicons/google-scholar
@@ -52,7 +52,7 @@ interests:
   - Decisions under uncertainty
 
 education:
-  - area: PhD Structural and Earthquake Engineering
+  - area: PhD Structural & Earthquake Engineering, 2024
     institution: University of British Columbia, Vancouver
     date_start: 2018-09-01
     date_end: 2024-01-08
@@ -61,17 +61,17 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0438706?o=0'
-  - area: MSE Systems Engineering
+  - area: MSE Systems Engineering, 2018
     institution: Johns Hopkins University
     date_start: 2017-08-01
     date_end: 2018-05-15
 
-  - area: MS Structural Engineering
+  - area: MS Structural Engineering, 2017
     institution: University of California, Irvine
     date_start: 2015-09-15
     date_end: 2017-03-31
     
-  - area: BE Civil Engineering
+  - area: BE Civil Engineering, 2015
     institution: Assam Engineering College
     date_start: 2011-08-15
     date_end: 2015-06-30
@@ -188,10 +188,10 @@ work:
 #       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Hi, Welcome to Cyber Space!
 
-My research seeks to understand impacts of natural hazard events on our communities, and thereby seek to enable decisions for a resilient future. My research delves into questions in the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science.  
+I am researcher working at the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science. 
 
-With a background in structural and systems engineering, I use statistical and physics based simulation tools to understand the complexities of disaster risk. My approach has been to work with collaborative teams with diversity in expertise and experience, and thereby engage in discussions related to policy decisions that aim to reduce risk. 
+With a background in structural and systems engineering, I use statistical and physics based simulation tools to understand the complexities of disaster risk. I am very interested to understand how societies shape disasters and vice versa. You will find my musings on this theme in essays tab.   
 
-When I’m not reading on my computer, I’m likely off traveling to a new destination or experimenting in the kitchen with exotic recipes.
+When I’m not working, I’m likely off traveling to a new destination, reading a book, or experimenting in the kitchen.
