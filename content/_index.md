@@ -52,7 +52,7 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: 'For a detailed and updated list please refer to <a href="https://scholar.google.com/citations?user=5iOOYJIAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>'
+      text: 'For a detailed and updated list please visit <a href="https://scholar.google.com/citations?user=5iOOYJIAAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>'
       filters:
         folders:
           - publication

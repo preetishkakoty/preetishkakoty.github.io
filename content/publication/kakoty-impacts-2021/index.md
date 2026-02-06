@@ -5,8 +5,8 @@ authors:
 - Preetish Kakoty
 - Sai Mithra Dyaga
 - Carlos Molina Hutt
-date: '2021-01-01'
-publishDate: '2024-08-23T06:24:07.294413Z'
+date: '2020-10-30'
+publishDate: '2020-10-30'
 publication_types: ["2"]
 publication: '*Earthquake Engineering & Structural Dynamics*'
 doi: 10.1002/eqe.3361
