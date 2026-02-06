@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Fellow
+role: Marie Skłodowska-Curie Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Auckland
+  - name: University College London
     url: https://profiles.auckland.ac.nz/preetish-kakoty
 
 # Social network links
@@ -190,7 +190,7 @@ work:
 
 ## Hi, Welcome to my cyber space!
 
-I am researcher working at the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science. 
+My work is at the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science. 
 
 With a background in structural and systems engineering, I use statistical and physics based simulation tools to estimate impacts of disasters and enable risk informed decision making for the built environment. 
 
