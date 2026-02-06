@@ -6,8 +6,8 @@ authors:
 - Carlos Molina Hutt
 - Hadi Ghofrani
 - Sheri Molnar
-date: 2024-01-01
-publishDate: '2024-08-23T06:24:07.286577Z'
+date: 2023-04-28
+publishDate: '2023-04-28'
 doi: 10.1002/eqe.3361
 publication_types: ["2"]
 publication: '*Earthquake Spectra*'
