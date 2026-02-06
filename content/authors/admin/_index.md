@@ -194,6 +194,6 @@ My work is at the intersection of natural hazards simulation, structural enginee
 
 With a background in structural and systems engineering, I use statistical and physics based simulation tools to estimate impacts of disasters and enable risk informed decision making for the built environment. 
 
-I am very interested to explore how societies shape disasters, and in turn disasters shape societies. You will find my musings on this theme in essays tab.
+I am very interested to explore how societies shape disasters, and in turn disasters shape societies. You will find my musings on this theme [here](https://preetish.substack.com/).
 
 Please connect if anything here piques your interest.
