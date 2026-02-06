@@ -46,7 +46,7 @@ featured: false
 image:
   caption: 'Geomean spectra of sample M9 Cascadia scenarios at selected locations within Metro Vancouver'
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 projects: ["basin-amplification"]
 #links:
