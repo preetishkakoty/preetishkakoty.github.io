@@ -11,4 +11,4 @@ image:
   caption: ''
 ---
 
-I co-authored a article with [Carlos Molina Hutt](https://www.carlosmolinahutt.com/) on the complexities of risk reduction for older tall buildings in Vancouver in [The Conversation](https://theconversation.com/ca). You can read the article [here.](https://theconversation.com/vancouver-built-up-fast-but-now-its-older-towers-face-an-earthquake-reckoning-263700). 
+I co-authored a article with [Carlos Molina Hutt](https://www.carlosmolinahutt.com/) on the complexities of risk reduction for older tall buildings in Vancouver in [The Conversation](https://theconversation.com/ca). You can read the article [here](https://theconversation.com/vancouver-built-up-fast-but-now-its-older-towers-face-an-earthquake-reckoning-263700). 
