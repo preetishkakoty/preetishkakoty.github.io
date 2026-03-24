@@ -25,13 +25,13 @@ role: Marie Skłodowska-Curie Fellow
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University College London
-    url: https://profiles.auckland.ac.nz/preetish-kakoty
+    url: https://profiles.ucl.ac.uk/108132-preetish-kakoty
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:preetish.kakoty@auckland.ac.nz'
+    url: 'mailto:p.kakoty@ucl.ac.uk'
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
@@ -47,8 +47,8 @@ profiles:
     url: https://orcid.org/0000-0002-6692-915X
 
 interests:
-  - Performance Based Engineering
-  - Disaster Risk Modelling
+  - Performance based engineering
+  - Disaster risk modelling
   - Decisions under uncertainty
 
 education:
@@ -93,7 +93,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-03-15
-    date_end: ''
+    date_end: '2025-12-31'
   - position: Visiting Researcher
     company_name: Stanford University
     company_url: ''
