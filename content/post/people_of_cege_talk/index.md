@@ -1,7 +1,7 @@
 ---
 title: Delivered a talk during People of CEGE at UCL on the 1897 Great Assam Earthquake  
 #summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2025-02-10
+date: 2026-03-18
 authors:
   - admin
 tags:
