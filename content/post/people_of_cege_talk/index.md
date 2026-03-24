@@ -5,8 +5,8 @@ date: 2026-03-18
 authors:
   - admin
 tags:
-  - Fellowship
-  - Disaster Risk
+  - Science Communication
+  - Historical Seismology
 image:
   caption: ''
 ---
