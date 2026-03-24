@@ -11,5 +11,5 @@ image:
   caption: ''
 ---
 
-I started my [**Marie Sklodowska-Curie Actions Postdoctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) on a project titled "Resilience Enhancement through Multi-Hazard Recovery Analysis of Earthquake and Flood-Affected Infrastructure". I will be part of the [DE|RISC lab] (https://www.carminegalassoresearch.com/) at [University College London](https://www.ucl.ac.uk/) working with Professor Carmine Galasso.
+I started my [**Marie Sklodowska-Curie Actions Postdoctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) on a project titled "Resilience Enhancement through Multi-Hazard Recovery Analysis of Earthquake and Flood-Affected Infrastructure". I will be part of the [DE|RISC lab](https://www.carminegalassoresearch.com/) at [University College London](https://www.ucl.ac.uk/) working with Professor Carmine Galasso.
 
