@@ -46,7 +46,7 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-6692-915X
 
-interests:
+experience:
   - Performance based engineering
   - Disaster risk modelling
   - Decisions under uncertainty
