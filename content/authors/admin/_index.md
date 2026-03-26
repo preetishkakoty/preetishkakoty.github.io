@@ -190,10 +190,24 @@ work:
 
 ## Hi, Welcome to my cyber space!
 
-My work is at the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science. 
+I am a **Marie Skłodowska-Curie Postdoctoral Fellow** at University College London, based in the [DE|RISC Lab](https://www.carminegalassoresearch.com/) with [Professor Carmine Galasso](https://profiles.ucl.ac.uk/44548-carmine-galasso). My fellowship project focuses on resilience enhancement through multi-hazard recovery analysis of earthquake and flood-affected infrastructure.
+
+My work sits at the intersection of **natural hazards simulation**, **structural engineering**, **risk quantification**, and **decision science**. I use statistical and physics-based simulation tools to estimate disaster impacts and support risk-informed decision making for the built environment.
+
+### Research Interests
+- Seismic hazard modelling and basin amplification effects
+- Performance based engineering
+- Multi-hazard risk and post-disaster recovery
+- Risk communication and decision-making
+
+I am deeply interested in how societies shape disasters — and how disasters, in turn, reshape societies. You will find my musings on this theme [here](https://preetish.substack.com/).
+
+Please connect if anything here piques your interest!
+
+<!-- My work is at the intersection of natural hazards simulation, structural engineering, risk quantification, and decision science. 
 
 With a background in structural and systems engineering, I use statistical and physics based simulation tools to estimate impacts of disasters and enable risk informed decision making for the built environment. 
 
 I am very interested to explore how societies shape disasters, and in turn disasters shape societies. You will find my musings on this theme [here](https://preetish.substack.com/).
 
-Please connect if anything here piques your interest.
+Please connect if anything here piques your interest. -->
