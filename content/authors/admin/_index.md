@@ -194,11 +194,11 @@ I am a **Marie Skłodowska-Curie Postdoctoral Fellow** at University College Lon
 
 My work sits at the intersection of **natural hazards simulation**, **structural engineering**, **risk quantification**, and **decision science**. I use statistical and physics-based simulation tools to estimate disaster impacts and support risk-informed decision making for the built environment.
 
-### Research Interests
+<!-- ### Research Interests
 - Seismic hazard modelling and basin amplification effects
 - Performance based engineering
 - Multi-hazard risk and post-disaster recovery
-- Risk communication and decision-making
+- Risk communication and decision-making -->
 
 I am deeply interested in how societies shape disasters — and how disasters, in turn, reshape societies. You will find my musings on this theme [here](https://preetish.substack.com/).
 
