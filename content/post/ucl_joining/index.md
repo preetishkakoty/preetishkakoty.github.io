@@ -1,5 +1,5 @@
 ---
-title: Joined University College London to start Marie Sklodowska-Curie Actions Postodoctoral Felloship Postdoctoral Fellowship 
+title: Joined University College London to start Marie Sklodowska-Curie Actions Postdoctoral Fellowship 
 #summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2026-01-06
 authors:
