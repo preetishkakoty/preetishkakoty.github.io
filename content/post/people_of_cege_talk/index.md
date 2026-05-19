@@ -1,5 +1,5 @@
 ---
-title: Delivered a talk during People of CEGE at UCL on the 1897 Great Assam Earthquake  
+title: Delivered a talk at the [Department of CEGE](https://www.ucl.ac.uk/engineering/civil-environmental-geomatic-engineering) at UCL on the 1897 Great Assam Earthquake  
 #summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
 date: 2026-03-18
 authors:
@@ -11,7 +11,7 @@ image:
   caption: ''
 ---
 
-I delivered a talk titled "Love Letter from Epicenter: The Story of the 1897 Great Assam Earthquake", the following is the abstract of the talk. A related essay can be found in my [blog.](https://preetish.substack.com/p/the-1897-great-assam-earthquake)
+The talk is titled "Love Letter from Epicenter: The Story of the 1897 Great Assam Earthquake", and the following is the abstract of the talk. A related essay can be found in my [blog.](https://preetish.substack.com/p/the-1897-great-assam-earthquake)
 
 **Abstract**
 On the afternoon of 12 June 1897, the eastern Himalaya region experienced one of the largest earthquakes in recorded history. What followed was an unlikely cast of characters from British-raj India: an administrator whose elegant bungalow crumbled to red dust; a geologist in Calcutta writing urgent dispatches to his wife while improvising a seismometer from tin, bamboo, and a glass bead; and a field scientist who walked the shattered landscape to produce a memoir that would anchor scientific debate for over a century.
