@@ -1,21 +1,20 @@
 ---
-title: Presented a poster at the [(Re)Insurance-Academia Global Earthquake Workshop](https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/may/first-riage-reinsurance-academia-global-earthquake-workshop) 
-#summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2026-03-18
+title: Bridging physics-based simulations and portfolio risk — a poster at RIAGE 2026
+date: 2026-05-19
 authors:
   - admin
 tags:
-  - Science Communication
-  - Historical Seismology
+  - Seismic Risk
+  - Portfolio Risk
+  - Physics-Based Simulations
 image:
   caption: ''
 ---
 
-Presented a poster on enhanced portfolio risk 
-The talk is titled "Love Letter from Epicenter: The Story of the 1897 Great Assam Earthquake", and the following is the abstract of the talk. A related essay can be found in my [blog.](https://preetish.substack.com/p/the-1897-great-assam-earthquake)
+I presented a poster at the inaugural [RIAGE (Re)Insurance-Academia Global Earthquake Workshop](https://www.ucl.ac.uk/mathematical-physical-sciences/events/2026/may/first-riage-reinsurance-academia-global-earthquake-workshop) at UCL. This was a unique mix of catastrophe modelers, underwriters, and earthquake scientists sat together to share recent developments and future paths. 
 
-**Abstract**
-On the afternoon of 12 June 1897, the eastern Himalaya region experienced one of the largest earthquakes in recorded history. What followed was an unlikely cast of characters from British-raj India: an administrator whose elegant bungalow crumbled to red dust; a geologist in Calcutta writing urgent dispatches to his wife while improvising a seismometer from tin, bamboo, and a glass bead; and a field scientist who walked the shattered landscape to produce a memoir that would anchor scientific debate for over a century.
-This talk traces the earthquake through these fragmented, partial, and deeply human records and follows the thread a century forward, to when two seismologists finally found the fault that caused it all, and named it after the man who had been looking in almost the right place.
-This is a story about science, power, and a forgotten earthquake from my hometown.
+The poster presents a framework for integrating physics-based ground motion simulations into regional seismic risk workflows — with Vancouver's tall building portfolio under an M9 Cascadia subduction zone scenario as the test case.
 
+Tall buildings represent just 1.4% of the region's building stock but nearly 14% of its total replacement value. Getting accurate hazard estimates for this exposure matters for insurers, for city planners, and for the people who live in these buildings.
+
+The poster outlines three pathways of increasing fidelity for connecting physics-based hazard estimates to portfolio loss metrics, and points toward future work benchmarking their outputs against each other.
