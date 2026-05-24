@@ -1,6 +1,5 @@
 ---
-title: Participated in a panel discussion during 12th Eastern Himalaya Naturenomics in Guwahati, India
-#summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Panel discussion on livelihood and disaster risk at Eastern Himalaya Naturenomics, Guwahati
 date: 2024-11-27
 authors:
   - admin
@@ -11,5 +10,4 @@ image:
   caption: ''
 ---
 
-I participated in a panel discussion on "Livelihood and Sustainable Development Models: In The Context of Eastern Himalaya" during the 12th Eastern Himalayan Naturenomics™ Forum organized by [**Balipara Foundation**](https://baliparafoundation.com/) in Guwhati, Assam. I shared the risk framework of exposure, hazard, and vulnerability to emphasize on the need for efforts in all the three dimensions to collectively reduce risk for the communities relying on agro-based livelihood in one of the world's most impacted region due to the changing climate. 
-
+I joined a panel on livelihood and sustainable development at the [12th Eastern Himalaya Naturenomics Forum](https://baliparafoundation.com/) in Guwahati, organized by Balipara Foundation. I drew on the exposure-hazard-vulnerability framework to argue that reducing risk for agro-based communities in one of the world's most climate-exposed regions requires simultaneous action on all three fronts — not just hazard mitigation alone.

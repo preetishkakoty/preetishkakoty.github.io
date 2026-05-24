@@ -1,6 +1,5 @@
 ---
-title: Delivered a talk virtually in the Department of Civi and Environmental Engineering at the Universidad del Bio Bio in Chile
-#summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Virtual talk on performance-based earthquake engineering at Universidad del Bío-Bío
 date: 2025-04-21
 authors:
   - admin
@@ -11,5 +10,4 @@ image:
   caption: ''
 ---
 
-I delivered a talk virtually titled "The Many Faces of Performance Based Earthquake Engineering" during a class seminar for [Professor Marco Gallegos](https://www.linkedin.com/in/marco-f-gallegos-600003101/) at the [**Departmento De Ingeneria Civil y Ambiental**](https://www.dica.ubiobio.cl/) at the Universidad del Bio Bio in Chile.
-
+I gave a virtual seminar on the many faces of performance-based earthquake engineering for Professor [Marco Gallegos](https://www.linkedin.com/in/marco-f-gallegos-600003101/)' class at the [Departamento de Ingeniería Civil y Ambiental](https://www.dica.ubiobio.cl/), Universidad del Bío-Bío, Chile.

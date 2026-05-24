@@ -1,6 +1,5 @@
 ---
-title: Preetish Kakoty delivered a talk in the Department of Earthquake Engineering at the Indian Institute of Technology Roorkee, India
-#summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Talk on seismic risk and policy at IIT Roorkee
 date: 2024-12-06
 authors:
   - admin
@@ -11,5 +10,4 @@ image:
   caption: ''
 ---
 
-I delivered a talk titled "Seismic Risk Models and Their Role in Shaping Risk Reduction Policies" during a department seminar at the [**Department of Earthquake Engineering**](https://iitr.ac.in/Departments/Earthquake%20Department/Home.html) at the Indian Institute of Technology Roorkee, India. 
-
+I gave a seminar on seismic risk models and their role in shaping risk reduction policies at the [Department of Earthquake Engineering](https://iitr.ac.in/Departments/Earthquake%20Department/Home.html), IIT Roorkee.
