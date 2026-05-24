@@ -1,5 +1,5 @@
 ---
-title: Bridging physics-based simulations and portfolio risk — a poster at RIAGE 2026
+title: Leveraging physics-based ground motion simulations for portfolio risk — a poster at RIAGE 2026
 date: 2026-05-19
 authors:
   - admin
