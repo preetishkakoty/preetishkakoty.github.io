@@ -1,6 +1,5 @@
 ---
-title: Joined University College London to start Marie Sklodowska-Curie Actions Postdoctoral Fellowship 
-#summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+title: Starting a Marie Skłodowska-Curie Fellowship at UCL
 date: 2026-01-06
 authors:
   - admin
@@ -11,5 +10,4 @@ image:
   caption: ''
 ---
 
-I started my [**Marie Sklodowska-Curie Actions Postdoctoral Fellowship**](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) on a project titled "Resilience Enhancement through Multi-Hazard Recovery Analysis of Earthquake and Flood-Affected Infrastructure". I will be part of the [DE|RISC lab](https://www.carminegalassoresearch.com/) at [University College London](https://www.ucl.ac.uk/) working with Professor Carmine Galasso.
-
+I joined the [DE|RISC lab](https://www.carminegalassoresearch.com/) at UCL to start a [Marie Skłodowska-Curie Postdoctoral Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) with Professor Carmine Galasso. The project focuses on resilience enhancement through multi-hazard recovery analysis of earthquake and flood-affected infrastructure.
