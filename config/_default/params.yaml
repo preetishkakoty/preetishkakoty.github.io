@@ -41,7 +41,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} preetish kakoty. This work is licensed under {license}'
+    notice: '© {year} preetish kakoty'
     license:
       enable: true
       allow_derivatives: false
